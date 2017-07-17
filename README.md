@@ -1,11 +1,13 @@
 # HaDevcampViewTool
 
 ```
+##  
 ```
 ```
-Oh hello there!
+## Oh hello there!
 ```
 ```
+##  
 ```
 
 ## Installation
@@ -26,7 +28,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+HaDevcampViewTool::Renderer.copyright "Why hello there, sir.", "all rights reserved"
+```
 
 ## Development
 
